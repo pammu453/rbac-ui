@@ -34,36 +34,19 @@ The **RBAC Project** is a user management system that provides control over role
 
 ## Screenshots
 
-### 1. **Dashboard**
+### **Dashboard**
 #### Summary Statistics
-![Dashboard Summary Statistics](https://github.com/user-attachments/assets/b2b9078f-80de-4c28-b145-e96aa9031a03)
+![Screenshot 2024-11-25 214737](https://github.com/user-attachments/assets/b2b9078f-80de-4c28-b145-e96aa9031a03)
 
 - Displays the total count of users, roles, and permissions in visually distinct cards with gradients.
 
-#### Recent Users Table
-![Recent Users Table](https://github.com/user-attachments/assets/04330767-a718-4827-b1ba-d04140376ff5)
+####  Users Table
+![Screenshot 2024-11-25 214813](https://github.com/user-attachments/assets/04330767-a718-4827-b1ba-d04140376ff5)
 - Lists recent users with ID, username, role, and status.
 
-### 2. **Role Management**
-#### Summary Table
-![Roles Summary Table](https://github.com/user-attachments/assets/bf32293f-5046-4c81-91d3-28e7c012951b)
-- View all roles with their ID, name, and descriptions.
-
-#### Role Assignment
-![Role Assignment](https://github.com/user-attachments/assets/40d3d8a2-f89a-4372-bee2-e08f3f530f34)
-- Assign roles dynamically to users through a form interface.
-
-### 3. **Permission Management**
-#### Permissions Table
-![Permissions Summary Table](https://github.com/user-attachments/assets/6762ea61-7108-49fa-afb8-7ef2ee6b1496)
-- Displays permissions with ID, permission name, and description.
-
-### 4. **User Interaction**
-#### Assigning Roles to Users
-![User Role Assignment](https://github.com/user-attachments/assets/3709e353-8e14-4b27-b36b-9bcf45598812)
-
-#### Permission Linking
-![Linking Permissions](https://github.com/user-attachments/assets/a6a7ec7f-5df8-4818-afb0-b80b29504c8a)
+####  Roles Table
+![Screenshot 2024-11-25 214802](https://github.com/user-attachments/assets/bf32293f-5046-4c81-91d3-28e7c012951b)
+- Lists recent users with ID, username, role, and status.
 
 ---
 
