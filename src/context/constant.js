@@ -1,0 +1,1 @@
+export const BASE_URL = "https://render-json-server-main-tv60.onrender.com"
