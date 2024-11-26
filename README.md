@@ -93,6 +93,11 @@ The **RBAC Project** is a user management system that provides control over role
    npm install
    ```
 
+3. Run project
+
+   ```bash
+   npm start
+   ```
 
 ## Conclusion
 
