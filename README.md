@@ -36,16 +36,19 @@ The **RBAC Project** is a user management system that provides control over role
 
 ### **Dashboard**
 #### Summary Statistics
-![Screenshot 2024-11-25 214737](https://github.com/user-attachments/assets/b2b9078f-80de-4c28-b145-e96aa9031a03)
-
+![Screenshot 2024-11-25 214737](https://github.com/user-attachments/assets/5cbea826-fbb9-476c-831f-5121280013b4)
 - Displays the total count of users, roles, and permissions in visually distinct cards with gradients.
 
 ####  Users Table
-![Screenshot 2024-11-25 214813](https://github.com/user-attachments/assets/04330767-a718-4827-b1ba-d04140376ff5)
+![Screenshot 2024-11-25 214752](https://github.com/user-attachments/assets/8ef43ab5-0e26-4ea5-9442-661c9b54ddf7)
 - Lists recent users with ID, username, role, and status.
 
 ####  Roles Table
-![Screenshot 2024-11-25 214802](https://github.com/user-attachments/assets/bf32293f-5046-4c81-91d3-28e7c012951b)
+![Screenshot 2024-11-25 214802](https://github.com/user-attachments/assets/9683a8ba-603f-4d47-a8c7-d70505e91956)
+- Lists recent users with ID, username, role, and status.
+
+####  Permissions Table
+![Screenshot 2024-11-25 214813](https://github.com/user-attachments/assets/8a99acd2-501e-4951-ad12-2bd471118ec4)
 - Lists recent users with ID, username, role, and status.
 
 ---
